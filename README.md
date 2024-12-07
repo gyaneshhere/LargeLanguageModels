@@ -4,17 +4,6 @@
 
 Welcome! In this repository you will find the code for all examples
 
-<br>
-
-The book is available on:
-
-* [Amazon](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961)
-* [Shroff Publishers (India)](https://www.shroffpublishers.com/books/computer-science/large-language-models/9789355425522/)
-* [O'Reilly](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/)
-* [Kindle](https://www.amazon.com/Hands-Large-Language-Models-Alammar-ebook/dp/B0DGZ46G88/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
-* [Barnes and Noble](https://www.barnesandnoble.com/w/hands-on-large-language-models-jay-alammar/1145185960)
-* [Goodreads](https://www.goodreads.com/book/show/210408850-hands-on-large-language-models)
-
 ## Table of Contents
 
 We advise to run all examples through Google Colab for the easiest setup. Google Colab allows you to use a T4 GPU with 16GB of VRAM for free. All examples were mainly built and tested using Google Colab, so it should be the most stable platform. However, any other cloud provider should work. 

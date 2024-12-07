@@ -1,7 +1,7 @@
 ﻿# Hands-On Large Language Models
 
 <a href="https://www.linkedin.com/in/gyaneshwer-kumar-4573b64b/">
-<img src="https://img.shields.io/badge/Follow/Gyanesh-blue.svg?logo=linkedin%22></img>
+<img src="https://img.shields.io/badge/Follow/Gyanesh-blue.svg?logo=linkedin%22>
 </a>
 
 Welcome! In this repository you will find the code for handy examples for Large Language Models

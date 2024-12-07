@@ -1,15 +1,8 @@
 ﻿# Hands-On Large Language Models
 
-<a href="https://www.linkedin.com/in/jalammar/"><img src="https://img.shields.io/badge/Follow%20Jay-blue.svg?logo=linkedin"></a>
-<a href="https://www.linkedin.com/in/mgrootendorst/"><img src="https://img.shields.io/badge/Follow%20Maarten-blue.svg?logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/gyaneshwer-kumar-4573b64b/"><img src="https://img.shields.io/badge/Follow%20Gyanesh-blue.svg?logo=linkedin"></a>
 
-Welcome! In this repository you will find the code for all examples throughout the book [Hands-On Large Language Models](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961) written by [Jay Alammar](https://www.linkedin.com/in/jalammar/) and [Maarten Grootendorst](https://www.linkedin.com/in/mgrootendorst/) which we playfully dubbed: <br> 
-
-<p align="center"><b><i>"The Illustrated LLM Book"</i></b></p>
-
-Through the visually educational nature of this book and with **almost 300 custom made figures**, learn the practical tools and concepts you need to use Large Language Models today!
-
-<a href="https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961"><img src="images/book_cover.png" width="50%" height="50%"></a>
+Welcome! In this repository you will find the code for all examples
 
 <br>
 

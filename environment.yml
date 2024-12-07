@@ -1,4 +1,4 @@
-name: thellmbook
+name: handsonllm
 channels:
   - conda-forge
   - defaults
